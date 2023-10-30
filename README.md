@@ -1,6 +1,3 @@
-# a-queue-data-structure-using-an-array
-This is a C program that simulates a queue data structure using an array.
-
 # Queue Implementation in C
 This C program demonstrates a basic queue data structure using an array. The program allows enqueueing, dequeueing, and displaying the elements of the queue.
 
